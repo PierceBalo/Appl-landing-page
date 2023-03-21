@@ -1,0 +1,1 @@
+An iPhone landing page with React, Three.js, GSAP, and a moving model. Ideal for learning front-end web development concepts and creating eye-catching, interactive landing pages with modern frameworks and animation libraries.
